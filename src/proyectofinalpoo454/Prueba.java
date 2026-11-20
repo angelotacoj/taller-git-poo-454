@@ -11,5 +11,6 @@ package proyectofinalpoo454;
 public class Prueba {
     public static void main(String[] args) {
         System.out.println("Carles");
+        System.out.println("Angelo");
     }
 }
