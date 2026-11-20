@@ -14,7 +14,8 @@ public class ProyectoFinalPoo454 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola este es parte de mi segundo commit :)");
+        
     }
     
 }
